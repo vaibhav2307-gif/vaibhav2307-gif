@@ -19,10 +19,14 @@ I'm an aspiring **Data Analyst** who enjoys exploring data, finding patterns, so
 **Languages:** Python • SQL
 **Analytics:** Pandas • NumPy • Excel
 **Visualization:** Power BI • Matplotlib • Seaborn
-**Tools:** Git • GitHub • Jupyter Notebook • VS code • Google Collab
+**Tools:** Git • GitHub • Jupyter Notebook • VS code • Google Collab🔎
 
 ⚡ Fun Fact
 I believe every dataset has a story — **some time I will find it.** 📊🔎
+
+CONTACT
+📨vaibhavsavadatti2307@gmail.com
+🖇️\in\vaibhav-savadatti
 
 ⭐ **Feel free to explore my repositories and follow my journey!**
 

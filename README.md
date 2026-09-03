@@ -24,9 +24,10 @@ I'm an aspiring **Data Analyst** who enjoys exploring data, finding patterns, so
 ⚡ Fun Fact
 I believe every dataset has a story — **some time I will find it.** 📊🔎
 
-CONTACT
-📨vaibhavsavadatti2307@gmail.com
-🖇️\in\vaibhav-savadatti
+**CONTACT**
+
+**📨**vaibhavsavadatti2307@gmail.com
+**🖇️**\in\vaibhav-savadatti
 
 ⭐ **Feel free to explore my repositories and follow my journey!**
 
